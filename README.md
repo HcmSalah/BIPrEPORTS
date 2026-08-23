@@ -1,20 +1,53 @@
+# Oracle HCM – BI Publisher Custom Report
 
-BIP CUSTOM REPORT
+## 📊 BI Publisher Custom Report
 
-CREATED DATA MODEL
-CREATED CUSTOMIZED RTF REPORT
-CREATED ADDITIONAL 3 USERS:
-1ST USER SAIF.AHMED HAS ACCESS TO ONE DEPARTMENT ONLY IN THE REPORT (Applications and Services).
-2ND USER HANY.OMER HAS ACCESS TO ONE DEPARTMENT ONLY IN THE REPORT (Benefits US).
-3RD USER HCM_SALAH HAS ACCESS TO TWO DEPARTMENTS ONLY IN THE REPORT (Applications and Services & Benefits US).
-(ADMIN USER HAS ACCESS TO ALL DEPARTMENTS).
+Created a custom **BI Publisher (BIP) report** for Oracle HCM.
 
-TEST USER AVAILABLE UPON REQUEST!
+### 🔧 Report Development
 
-https://youtu.be/CY8i6eXXXts
+- Created the **Data Model**
+- Created a customized **RTF Report Template**
+- Configured department-based data access
+- Tested the report using multiple users with different department permissions
 
-https://youtu.be/aRl8A-_G2c0
+## 🔐 User Access & Data Security
 
-Thank you
-Mohamed Salah
-HCM Fusion Consultant
+Created **3 additional users** with different department-level access:
+
+| User | Department Access |
+|---|---|
+| **SAIF.AHMED** | Applications and Services |
+| **HANY.OMER** | Benefits US |
+| **HCM_SALAH** | Applications and Services + Benefits US |
+| **Admin User** | All Departments |
+
+### Access Details
+
+- **SAIF.AHMED** has access to **Applications and Services only**.
+- **HANY.OMER** has access to **Benefits US only**.
+- **HCM_SALAH** has access to **two departments only**:
+  - Applications and Services
+  - Benefits US
+- **Admin User** has access to **all departments**.
+
+The report respects the user's assigned department security, ensuring that each user can only view the permitted department data.
+
+## 🧪 Testing
+
+**Test user available upon request!**
+
+## 🎥 Demonstration
+
+### Demo 1
+[▶️ Watch the BI Publisher Report Demo](https://youtu.be/CY8i6eXXXts)
+
+### Demo 2
+[▶️ Watch the Department Security Demo](https://youtu.be/aRl8A-_G2c0)
+
+---
+
+## 👤 Author
+
+**Mohamed Salah**  
+*HCM Fusion Consultant*
