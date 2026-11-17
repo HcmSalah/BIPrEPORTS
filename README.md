@@ -43,7 +43,7 @@ The report respects the user's assigned department security, ensuring that each 
 [▶️ Watch the BI Publisher Report Demo](https://youtu.be/CY8i6eXXXts)
 
 ### Demo 2
-[▶️ Watch the Department Security Demo](https://youtu.be/aRl8A-_G2c0)
+[▶️ Watch TODAYS DATE BIP Demo](https://youtu.be/aRl8A-_G2c0)
 
 ---
 
